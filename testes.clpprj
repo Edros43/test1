@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="C:\wamp\www\test1\testes.clpprj">
 	<settings><PM_URL><![CDATA[http://localhost/test1/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/test1/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
-		<file name="C:\wamp\www\test1\test1.css"/>
+		<file name="C:\wamp\www\test1\if.php"/>
 	</lastopfiles>
 	<errors version="5.3">
 	</errors>
 	<codestructure version="5.0">
 		<phptree>
+			<treenode node="CONSTANTE;PHP:PHP Word;Codelobster8.php;f8;4;17;4;;C:\wamp\www\test1\constantes.php;f8;4;17;4;;;;vpos;;v;;r'Ola mundo!!!', true;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_13;PHP:Var Name;C:\wamp\www\test1\variavel.php;f0;11;4;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="nome;PHP:Var Name;Codelobster6.php;f0;3;5;3;;C:\wamp\www\test1\nomes-dinamicos.php;f0;3;5;3;;C:\wamp\www\test1\variavel.php;f0;5;5;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="numero;PHP:Var Name;C:\wamp\www\test1\saida de texto.php;f0;18;7;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="operador;PHP:Var Name;C:\wamp\www\test1\saida de texto.php;f0;17;9;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="usuario;PHP:Var Name;C:\wamp\www\test1\variavel.php;f0;16;8;16;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="Usuario;PHP:Var Name;C:\wamp\www\test1\variavel.php;f0;15;8;15;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="var1;PHP:Var Name;Codelobster1.php;f0;3;5;3;;C:\wamp\www\test1\operadores_matematicos.php;f0;3;5;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="var2;PHP:Var Name;Codelobster1.php;f0;4;5;4;;C:\wamp\www\test1\operadores_matematicos.php;f0;4;5;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="var3;PHP:Var Name;Codelobster1.php;f0;5;5;5;;C:\wamp\www\test1\operadores_matematicos.php;f0;5;5;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="variavel;PHP:Var Name;Codelobster4.php;f0;5;9;5;;Codelobster6.php;f0;2;9;2;;C:\wamp\www\test1\nomes-dinamicos.php;f0;2;9;2;;C:\wamp\www\test1\variavel.php;f0;29;9;29;;C:\wamp\www\test1\heredoc.php;f0;5;9;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
 		</phptree>
 		<jstree>
 		</jstree>
@@ -25,8 +47,16 @@
 	<todoblock>
 	</todoblock>
 	<filescache>
-		<file name="C:\wamp\www\test1\test1.css" crc="-1967989534"/>
-		<file name="C:\wamp\www\test1\scripttest.php" crc="-173247603"/>
-		<file name="C:\wamp\www\test1\file2.php" crc="623094325"/>
+		<file name="C:\wamp\www\test1\variavel.php" crc="56873962"/>
+		<file name="C:\wamp\www\test1\test1.css" crc="0"/>
+		<file name="C:\wamp\www\test1\scripttest.php" crc="-878326954"/>
+		<file name="C:\wamp\www\test1\saida_de_texto.php" crc="1387808872"/>
+		<file name="C:\wamp\www\test1\operadores_matematicos.php" crc="1483162276"/>
+		<file name="C:\wamp\www\test1\nomes-dinamicos.php" crc="-177067034"/>
+		<file name="C:\wamp\www\test1\if.php" crc="1604745361"/>
+		<file name="C:\wamp\www\test1\heredoc.php" crc="-1312449403"/>
+		<file name="C:\wamp\www\test1\file2.php" crc="-1502666332"/>
+		<file name="C:\wamp\www\test1\converter_tipo_de_dado.php" crc="360753501"/>
+		<file name="C:\wamp\www\test1\constantes.php" crc="2094317466"/>
 	</filescache>
 </project>
